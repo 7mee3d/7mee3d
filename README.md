@@ -2,9 +2,7 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
+
 
 	
 ## <picture><img src = "https://github.com/user-attachments/assets/be599b18-4fe0-4fe9-a086-486b69e2fdd6" width = 30px></picture> About me
