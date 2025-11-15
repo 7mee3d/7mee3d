@@ -10,7 +10,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Ahmed Jehad</h1>
-<h3 align="center">Software Engineer | Driven Backend Developer | .NET Framework Developer | Passionate C++ Enthusiast</h3>
+<h3 align="center">I'm Ahmed Jehad | Software Engineer | Driven Desktop Applications Developer | .NET Framework Developer | Passionate C++ Enthusiast</h3>
 <p align="center">
 I’ve been fascinated by computer technology 🌐 since childhood, which naturally fueled my passion for pursuing Software Engineering. Exploring emerging tech stacks 💻 and building innovative projects 🛠️ gives me immense joy and constantly drives me to push the boundaries of this ever-evolving field.</p>
 <p align="center">
